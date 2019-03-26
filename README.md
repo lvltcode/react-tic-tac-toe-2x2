@@ -2,7 +2,7 @@
 
 Created with love by: `lvltcode`
   
-View online at: https://wonderful-raman-0de979.netlify.com
+View online at: https://react-tictactoe-2x2-lvltcode.netlify.com/
   
 TIC TAC TOE game from React Facebook
 
