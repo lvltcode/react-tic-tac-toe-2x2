@@ -1,4 +1,4 @@
-# CoderSchool FTW - Tic-Tac-Toe (version 2x2) React Game
+# Tic-Tac-Toe (version 2x2) React Game
 
 Created with love by: `lvltcode`
   
